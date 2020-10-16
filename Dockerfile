@@ -1,4 +1,4 @@
 FROM ubuntu
 
-RUN mkdir /home/test/emanuelburgess
+RUN mkdir -p /home/test/emanuelburgess
 
